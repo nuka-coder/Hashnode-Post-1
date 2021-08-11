@@ -1,0 +1,31 @@
+Article/Post #1:
+
+(Introduction Article, and Why You Should Do Things that Make You Nervous)
+
+What the purpose of this blog will be.
+
+building community, motivating others with my struggles and successes, add a small drop in the bucket that is women (and Muslim women) in tech
+
+What this blog will offer to other programmers.
+
+Personal examples of when it was better to do what made me nervous (quitting job to focus on programming full-time) What was the good result? How did it feel to take that leap?
+
+links to quotes or other articles about… (power of confidence, confronting anxiety)
+
+If you’re reading this then there is an 80% chance that you’re me, compulsively checking for typos and wavering between scraping the whole article and jumping back online for some MTG: Arena. “Hey there, me. Get back to work you slacker!” On the off chance that you are not me, then “Welcome, new friend!”
+
+I’ve probably overthought this first article. The process of writing my first post on Hashnode has oddly felt like the first day at a new school as a transfer student. All the other students have already been assigned seats, picked their partners, and know exactly where they’ll be sitting for lunch. I, on the other hand, am carrying way too many textbooks, can’t find my locker, and have accidentally dropped my student I.D. in the toilet. Great.
+
+And while it is oh so tempting to let doubt and the fear of the unfamiliar push us back into our comfortable shells, the payoff of doing the thing that makes you nervous is often worth the fleeting feeling that the world will implode. Trust me, it won’t.
+
+As a self-taught developer one of the first coding hurdles I had to overcome was the dreaded ‘Imposter Syndrome’. Dun, dun, dun! *Queue ominous music. * I’d heard about it so often in my first months of study I almost thought it was a new programming framework, rivaling – for most bizarre name. The funny thing about Imposter Syndrome is that no matter how much people talk about it, you really don’t understand it until you’re already uncomfortably seated on the throne of self-doubt and loathing, and those doubts can not only hold you back from learning more, but also from recognizing the magnitude of what you’ve already accomplished.
+
+So, how do you climb down from the throne of self-doubt? Well, the answer doesn’t involve going all Mad King and incinerating all your worries with dragon fire -although that would be epic- in fact there’s a much simpler solution. 1) Acknowledge that folks who feel imposter syndrome the tend to have trouble recognizing their achievements. Sometimes, it’s as easy as self-affirming yourself, writing a list of everything you didn’t know a month or a year ago, or a keeping a record of things you’ve completed or started that you’re proud of. It helps to reflect on what you’ve learned, mistakes made, and how you resolved them.
+
+Which brings me to my next method: 2) Go back to the beginning of your journey (whatever that may be). A couple days ago I stumbled upon my very first portfolio website from 1 year ago. At the time I made it I was so over the moon with making my first ever HTML project; you would’ve thought I’d just developed the next Facebook app. As proud as I was back then, I’m even more excited knowing how much I’ve improved as a developer and satisfied with the long hours I put into learning (practicing self-affirming here).
+
+[Insert comparison screenshots of both portfolios here]
+
+My point is, in this pandemic era where “normal” is position: relative, and – seems to change by the hour, starting something new can be especially daunting, and pursuing it can make you feel like a fool in a world of geniuses. But hey, before you knock yourself down try to practice the above methods, and always remember that everyone else is flailing just as hard as you in their own minds.
+
+As my 11th grade Speech teacher used to say, “It feels worse than it looks.” Which is to say that the cynicism we approach our own work with is rarely mirrored by reality. That’s not to say you won’t ever make bad work, as I’m sure this article probably reflects (see; cynicism), but what seems disastrous may actually be at the very least ‘Alright’.
