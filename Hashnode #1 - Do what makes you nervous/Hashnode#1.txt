@@ -24,7 +24,8 @@ So, how do you climb down from the throne of self-doubt? Well, the answer doesn�
 
 Which brings me to my next method: 2) Go back to the beginning of your journey (whatever that may be). A couple days ago I stumbled upon my very first portfolio website from 1 year ago. At the time I made it I was so over the moon with making my first ever HTML project; you would’ve thought I’d just developed the next Facebook app. As proud as I was back then, I’m even more excited knowing how much I’ve improved as a developer and satisfied with the long hours I put into learning (practicing self-affirming here).
 
-[Insert comparison screenshots of both portfolios here]
+![2020 Screenshot of Portfolio](imgs/2020 portfolio.jpg)
+![2021 Screenshot of Portfolio](imgs/2021 protfolio.jpg)
 
 My point is, in this pandemic era where “normal” is position: relative, and – seems to change by the hour, starting something new can be especially daunting, and pursuing it can make you feel like a fool in a world of geniuses. But hey, before you knock yourself down try to practice the above methods, and always remember that everyone else is flailing just as hard as you in their own minds.
 
